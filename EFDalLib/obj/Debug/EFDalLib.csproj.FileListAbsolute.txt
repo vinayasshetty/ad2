@@ -1,0 +1,10 @@
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\bin\Debug\EFDalLib.dll.config
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\bin\Debug\EFDalLib.dll
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\bin\Debug\EFDalLib.pdb
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\bin\Debug\EntityFramework.dll
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\bin\Debug\EntityFramework.xml
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\obj\Debug\EFDalLib.csprojResolveAssemblyReference.cache
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\obj\Debug\EFDalLib.dll
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\EFDalLib\obj\Debug\EFDalLib.pdb

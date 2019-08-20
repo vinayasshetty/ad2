@@ -1,0 +1,15 @@
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\WinForm.exe
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\WinForm.pdb
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\EFDalLib.dll
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\EntityFramework.dll
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\EFDalLib.pdb
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\EntityFramework.xml
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\obj\Debug\WinForm.Form1.resources
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\obj\Debug\WinForm.exe
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\obj\Debug\WinForm.pdb
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vinaya.SS\Documents\Visual Studio 2015\Projects\Advance\ObjectInitializerDemo\WinForm\bin\Debug\EntityFramework.SqlServer.xml
